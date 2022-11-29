@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(58, 1, 150);
+    font-family: 'Sono', sans-serif;
+
+}
+
+.container{
+    width: 800px;
+    height: 600px;
+
+}
+
+.caixa{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(3, 14, 34);
+    color: white;
+    margin: 15px;
+    text-align: center;
+    padding-top: 50px;
+    box-shadow: 0 0 1em black;
+
+}
